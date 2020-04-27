@@ -5,7 +5,7 @@ TERMUX
 - pkg upgrade
 - pkg update
 - pkg install git
-- git clone https://github.com/yantombetik/Bol
+- git clone https://github.com/yantombetik/Bonstri
 - Cd
 - Cd Bonstri
 - php gas.php
